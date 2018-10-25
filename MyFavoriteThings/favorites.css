@@ -1,0 +1,22 @@
+/*
+*Maura Mullen
+*October 18
+*favorites
+*/
+/* The universal selector*/
+* {
+}
+/*Body attributes here*/
+body{
+background-color: ;
+}
+
+#bahamas { width: 300px; height: 400px;}
+
+#molly { width: 450px; height: 350px;}
+
+#fall { width: 450px; height: 350px;}
+
+#bahamas {float:right;} 
+
+#fall {float:right;} 
