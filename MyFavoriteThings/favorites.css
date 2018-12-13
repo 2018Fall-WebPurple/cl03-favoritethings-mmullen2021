@@ -8,15 +8,18 @@
 }
 /*Body attributes here*/
 body{
-background-color: ;
+background-color: mediumturquoise;
 }
 
-#bahamas { width: 300px; height: 400px;}
+#bahamas { width: 300px; height: 400px;
+ float:right;}
 
 #molly { width: 450px; height: 350px;}
 
 #fall { width: 450px; height: 350px;}
 
-#bahamas {float:right;} 
+header{ float: right;}
 
-#fall {float:right;} 
+
+
+
